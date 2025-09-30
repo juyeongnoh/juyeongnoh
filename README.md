@@ -7,5 +7,5 @@
 ### 연락처 📞
 
 이메일: juyeongnoh@gmail.com<br/>
-블로그: https://velog.io/@juyeongnoh<br/>
+블로그: [https://jamesnoh.tistory.com/](https://jamesnoh.tistory.com/)<br/>
 전화번호: 비밀
